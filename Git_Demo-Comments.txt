@@ -1,0 +1,40 @@
+Git commands
+
+1.Git Status
+
+2.Git init   (only use this if git status doesn't work)
+
+3.git add .  (to allow files)
+
+4.again [git status]  file will bw allowed.
+
+5. git reset (to remove acesses)
+
+6.to add some multiple file or paticular file [git add ^c
+                                               git add Git_Demo_comments]                                                     [After modification again we should add to update it]
+    now give [git status] file allowed
+
+7.git remote add (reference) (for connecting references)  //to add to repositry
+
+8.git remote add origin (reference)   //building connection from local to global
+
+9.git checkout -b [name] (to add new branch/user)    [-b=>new branch]
+
+10.git checkout "branch name"  //to switch branch
+
+==============================================================
+in command promt
+->git --version
+->git config --global user.name "Sai-Alekya"
+->git config --global email "alekyabapatala@gmail.com"
+===============================================================
+
+10.git commit -m "photo" (document injected)
+
+11.git push origin (name)  (to insert a file)
+
+12.git clone [code in repositry]   (to get acesses to other codes)
+
+13.git  pull origin Master //to pull the code
+
+14.git push origin (name)  (to insert a file)
